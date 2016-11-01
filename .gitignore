@@ -1,0 +1,7 @@
+.git
+*~
+._*
+*.log
+*.out
+*.pid
+.DS_Store
