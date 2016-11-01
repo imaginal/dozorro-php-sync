@@ -14,6 +14,15 @@ Usage
 -----
 
     $ php run_dz.php config.ini
+
 or
+
     $ run_safe.sh start
+
+
+More
+----
+
+http://dozorro-api-sandbox.ed.org.ua/
+
 
